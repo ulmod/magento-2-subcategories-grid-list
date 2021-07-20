@@ -10,7 +10,7 @@ With Magento 2 Subcategories Grid List Slide, you can display subcategories on a
 
 * Auto-display sub-categories  of each current category on the category page
 * Support widgets and code insert to display subcategories at any other page and position of your site.
-(eg. home, product, CMS, and any other pages and positions)
+(eg. home, product, CMS, and any other pages)
 * Ability to display subcategories in form of Grid, List, and Slide.  Ability to choose the number of slides to show per breakpoints
 * Ability to display the first-level categories or manually select the categories to display on any page
 * Ability to order subcategories by ascending or descending
